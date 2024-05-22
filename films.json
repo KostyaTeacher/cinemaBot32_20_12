@@ -52,5 +52,11 @@
         "description": "Фільм про щось цікаве",
         "rating": "10/10",
         "photo": "https://planetakino.ua/res/get-poster/00000000000000000000000000003902/Strays_vend3.jpg"
+    },
+    "test": {
+        "site_url": "https://m.hdrezka.info/uploads/pdb/b/368ebc61caca016ee8f82746d9be824a.jpg",
+        "description": "djkgafjhghfjgjahgfhja",
+        "rating": "5\\10",
+        "photo": "https://m.hdrezka.info/uploads/pdb/b/368ebc61caca016ee8f82746d9be824a.jpg"
     }
 }
